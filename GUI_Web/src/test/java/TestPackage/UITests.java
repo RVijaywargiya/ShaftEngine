@@ -11,7 +11,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import pages.Home;
 
-public class TestClass {
+public class UITests {
     private  SHAFT.GUI.WebDriver driver;
     private SHAFT.TestData.JSON testData;
 
